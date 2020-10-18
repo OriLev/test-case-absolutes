@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test-case-absolutes/static/css/main.fda9b12e.chunk.css",
+    "main.js": "/test-case-absolutes/static/js/main.75618438.chunk.js",
+    "main.js.map": "/test-case-absolutes/static/js/main.75618438.chunk.js.map",
+    "runtime-main.js": "/test-case-absolutes/static/js/runtime-main.e7f67e9f.js",
+    "runtime-main.js.map": "/test-case-absolutes/static/js/runtime-main.e7f67e9f.js.map",
+    "static/js/2.63975590.chunk.js": "/test-case-absolutes/static/js/2.63975590.chunk.js",
+    "static/js/2.63975590.chunk.js.map": "/test-case-absolutes/static/js/2.63975590.chunk.js.map",
+    "index.html": "/test-case-absolutes/index.html",
+    "precache-manifest.0a20d37b6557f1a772c9b0744f3df51f.js": "/test-case-absolutes/precache-manifest.0a20d37b6557f1a772c9b0744f3df51f.js",
+    "service-worker.js": "/test-case-absolutes/service-worker.js",
+    "static/css/main.fda9b12e.chunk.css.map": "/test-case-absolutes/static/css/main.fda9b12e.chunk.css.map",
+    "static/js/2.63975590.chunk.js.LICENSE.txt": "/test-case-absolutes/static/js/2.63975590.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7f67e9f.js",
+    "static/js/2.63975590.chunk.js",
+    "static/css/main.fda9b12e.chunk.css",
+    "static/js/main.75618438.chunk.js"
+  ]
+}
